@@ -35,7 +35,7 @@ import Link from 'next/link'
           </div>
 
           <Image 
-            src="/assets/images/food.png"
+            src="/assets/images/banner.jpg"
             alt="hero"
             width={1000}
             height={1000}
