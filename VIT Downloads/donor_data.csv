@@ -1,0 +1,11 @@
+previous_donations,business_type,location,donated
+5,Restaurant,Downtown,1
+2,Grocery Store,Uptown,0
+10,Cafe,Downtown,1
+0,Restaurant,Downtown,0
+3,Grocery Store,Downtown,1
+7,Cafe,Uptown,1
+1,Restaurant,Uptown,0
+4,Grocery Store,Downtown,1
+6,Cafe,Downtown,1
+8,Grocery Store,Uptown,1
